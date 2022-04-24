@@ -1,4 +1,4 @@
-package io.github.chapter2.demo1_sync_bio;
+package io.github.demo1_sync_bio;
 
 import java.io.IOException;
 import java.net.ServerSocket;
